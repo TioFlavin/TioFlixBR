@@ -4,13 +4,13 @@
 * Credenciais para conexão com o Banco de Dados.
 **/
 
-define ('HOST', 'localhost');
+define ('HOST', 'ep-cool-snowflake-790363-pooler.us-west-2.postgres.vercel-storage.com');
 
-define ('USUARIO', 'usuario');
+define ('USUARIO', 'default');
 
-define ('SENHA', 'senha');
+define ('SENHA', 'tkOBoc47UaCg');
 
-define ('BD', 'bancoDeDados');
+define ('BD', 'verceldb');
 
 /**
 * Caso queira guardar erros SQL
@@ -18,11 +18,11 @@ define ('BD', 'bancoDeDados');
 
 define ('ERROS_SQL', false);
 
-define ('TOKEN', 'BOT_TOKEN');
+define ('TOKEN', '6168877919:AAHFgZqpW0kGwvEag4Y9KD46E8OrfBZYJ0s');
 
-define ('CANAL', '@seucanal');
+define ('CANAL', '@TioDivulga');
 
-define ('ADM', '275123569');
+define ('ADM', '5479757526);
 
 define ('TIME_ZONE', 'America/Sao_Paulo');
 
